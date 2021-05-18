@@ -1,0 +1,22 @@
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\bin\Debug\kursov proekt-tsp6sem.exe.config
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\bin\Debug\kursov proekt-tsp6sem.exe
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\bin\Debug\kursov proekt-tsp6sem.pdb
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\obj\Debug\kursov_proekt_tsp6sem.Form1.resources
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\obj\Debug\kursov_proekt_tsp6sem.Properties.Resources.resources
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.exe
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.pdb
+C:\Users\DELL\source\repos\kursov proekt-tsp6sem\kursov proekt-tsp6sem\obj\Debug\kursov_proekt_tsp6sem.Main.resources
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\bin\Debug\kursov proekt-tsp6sem.exe.config
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\bin\Debug\kursov proekt-tsp6sem.exe
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\bin\Debug\kursov proekt-tsp6sem.pdb
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\obj\Debug\kursov_proekt_tsp6sem.Main.resources
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\obj\Debug\kursov_proekt_tsp6sem.Properties.Resources.resources
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.exe
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\obj\Debug\kursov proekt-tsp6sem.pdb
+C:\Users\DELL\source\repos\kursov proekt-usp\kursov proekt-tsp6sem\obj\Debug\kursov_proekt_tsp6sem.Login_Platform.resources
